@@ -16,7 +16,7 @@ var togglSettings = {
 // Initialize slack
 var slack = new slackAPI({
   // Find the API token for your bot here: https://my.slack.com/services/new/bot
-  'token': 'YOUR TOKEN HERE',
+  'token': 'xoxb-49735444738-6EZOhg0tonfosttgRezjo9yh',
 	'logging': true
 });
 
